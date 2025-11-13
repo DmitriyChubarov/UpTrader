@@ -16,6 +16,8 @@ cd /ваш/путь
 Клонируем репозотирий в эту папку, переходим в папку проекта:
 ```bash 
 git clone https://github.com/DmitriyChubarov/UpTrader.git
+```
+```bash 
 cd UpTrader/
 ```
 Создаём .env файл
@@ -54,3 +56,4 @@ http://127.0.0.1:8000/tree/
 ### Контакты
 - tg: @eeezz_z
 - gh: https://github.com/DmitriyChubarov
+
